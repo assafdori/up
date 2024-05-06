@@ -3,7 +3,7 @@ owner: assafdori # Your GitHub organization or username, where this repository l
 repo: up # The name of this repository
 
 sites:
-  - name: Assaf Dori
+  - name: ROOT
     url: https://assafdori.com
   - name: WWW
     url: https://www.assafdori.com
