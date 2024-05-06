@@ -1,20 +1,20 @@
 [
   {
-    "name": "Assaf Dori",
+    "name": "ROOT",
     "url": "https://assafdori.com",
     "icon": "https://icons.duckduckgo.com/ip3/assafdori.com.ico",
-    "slug": "assaf-dori",
+    "slug": "root",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3549,
-    "timeDay": 3549,
-    "timeWeek": 3549,
-    "timeMonth": 3549,
-    "timeYear": 3549,
+    "time": 5078,
+    "timeDay": 5078,
+    "timeWeek": 5078,
+    "timeMonth": 5078,
+    "timeYear": 5078,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   }
 ]
