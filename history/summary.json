@@ -4,19 +4,19 @@
     "url": "https://assafdori.com",
     "icon": "https://icons.duckduckgo.com/ip3/assafdori.com.ico",
     "slug": "root",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 5120,
-    "timeDay": 5162,
-    "timeWeek": 5120,
-    "timeMonth": 5120,
-    "timeYear": 5120,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 5186,
+    "timeDay": 5241,
+    "timeWeek": 5186,
+    "timeMonth": 5186,
+    "timeYear": 5186,
     "dailyMinutesDown": {
-      "2024-05-07": 1
+      "2024-05-07": 21
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.assafdori.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.assafdori.com.ico",
     "slug": "www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 180,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
+    "time": 201,
+    "timeDay": 264,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-05-07": 0
+      "2024-05-07": 20
     }
   }
 ]
