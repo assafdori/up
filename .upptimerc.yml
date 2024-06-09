@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ASSAF DORI - PRODUCTION
   introTitle: "**ASSAFDORI.COM** is monitored by Upptime, open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a live status page which uses **real-time** data from my repository [GitHub repository](https://github.com/assafdori/up).
+  introMessage: This is a live status page which uses **real-time** data from my [GitHub repository](https://github.com/assafdori/up).
   navbar:
     - title: Status
       href: /
