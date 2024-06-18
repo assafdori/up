@@ -4,7 +4,7 @@
     "url": "https://www.assafdori.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.assafdori.com.ico",
     "slug": "assafdori-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 2225,
     "timeMonth": 1613,
     "timeYear": 1613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   }
 ]
