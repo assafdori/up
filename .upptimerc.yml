@@ -4,7 +4,7 @@ repo: up # The name of this repository
 
 sites:
   - name: ASSAFDORI.COM
-    url: https://www.assafdori.com
+    url: https://assafdori.com
 
 status-website:
   cname: status.assafdori.com
