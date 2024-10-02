@@ -7,7 +7,7 @@ sites:
     url: https://www.assafdori.com
 
 status-website:
-  cname: status.assafdori.com
+  cname: status.assafdori.co
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ASSAF DORI - PRODUCTION
