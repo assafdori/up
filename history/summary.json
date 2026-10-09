@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/assafdori.com.ico",
     "slug": "assafdori-com",
     "status": "up",
-    "uptime": "63.53%",
+    "uptime": "63.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.17%",
+    "uptimeYear": "61.44%",
     "time": 151,
-    "timeDay": 244,
-    "timeWeek": 191,
+    "timeDay": 140,
+    "timeWeek": 190,
     "timeMonth": 146,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -156,7 +156,6 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
       "2026-04-20": 82
     }
   }
